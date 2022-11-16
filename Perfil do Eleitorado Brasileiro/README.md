@@ -3,6 +3,7 @@
 ## Objetivo
 * Aplicar conceitos aprendidos no 2º Semestre de Ciência de Dados;
 * Desenvolver e treinar conceitos de AED;
+* Aplicação de conceitos nas bibliotecas pandas, matplotlib e seaborn;
 * Descobrir o perfil dos eleitores brasileiros;
 
 ## Bibliotecas utilizadas
