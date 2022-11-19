@@ -29,3 +29,5 @@
 > * https://www.ibge.gov.br/geociencias/cartas-e-mapas/bases-cartograficas-continuas/
 > * última atualização: 12 de novembro de 2022, 08:55 (UTC-03:00)
 > * *informações geoespaciais* com todos os pontos de localizações dos municípios do Brasil, extraídos do site do IBGE.
+
+![](https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/blob/main/03.%20Gr%C3%A1fico%20da%20distribui%C3%A7%C3%A3o%20de%20eleitores%20no%20Brasil/img/img_EXP2.png)
