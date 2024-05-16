@@ -2,6 +2,9 @@
 
 > Este repositório contém a análise exploratória dos dados do perfil do eleitorado brasileiro nas eleições de 2022. Utilizando diversas bibliotecas de Python e dados geoespaciais, exploramos e visualizamos o comportamento do eleitorado brasileiro.
 
+<div align="center"> <img src="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/blob/main/02.%20Perfil%20do%20Eleitorado%20Brasileiro/img/image.jpg?raw=true" width="900"> </div>
+
+
 ## Introdução
 
 O perfil do eleitorado é uma variável fundamental para entender o comportamento eleitoral e suas tendências. Este projeto visa analisar os dados do eleitorado brasileiro nas eleições de 2022, utilizando técnicas de visualização de dados e geoprocessamento para identificar padrões e insights.
