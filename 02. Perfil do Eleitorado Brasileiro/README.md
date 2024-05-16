@@ -44,3 +44,12 @@ Os dados utilizados foram extraídos de fontes oficiais, garantindo a confiabili
 - Geopandas
 - NumPy
 - Shapely
+
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/blob/main/02.%20Perfil%20do%20Eleitorado%20Brasileiro/Perfil%20Eleitorado.ipynb" target="_blank">Analises-Exploratorias-de-Dados/02. Perfil do Eleitorado Brasileiro
+/Perfil Eleitorado.ipynb</a>
+
+## Licença
+
+Distribuído sob a licença MIT
