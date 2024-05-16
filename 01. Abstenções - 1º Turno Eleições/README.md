@@ -3,6 +3,8 @@
 
 > Este repositório contém a análise exploratória dos dados de abstenções das eleições brasileiras de 2022. Utilizando diversas bibliotecas de Python e dados geoespaciais, exploramos e visualizamos o comportamento das abstenções ao longo dos anos e entre diferentes estados.
 
+<div align="center"> <img src="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/blob/main/01.%20Absten%C3%A7%C3%B5es%20-%201%C2%BA%20Turno%20Elei%C3%A7%C3%B5es/img/abstencoes.jpg?raw=true" width="800"> </div>
+
 ## Introdução
 
 A abstenção eleitoral é um fenômeno que pode indicar diversos fatores socioeconômicos e políticos. Este projeto visa analisar os dados de abstenções das eleições de 2022 no Brasil, utilizando técnicas de visualização de dados e geoprocessamento para identificar padrões e insights.
