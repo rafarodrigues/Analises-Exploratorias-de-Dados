@@ -22,9 +22,9 @@ Através deste repositório, meus principais objetivos incluem:
 
 ## Projetos
 
-- `001` <a href="https://github.com/rafarodrigues/analise-exploratoria-dados/tree/main/Abstencoes-1Turno-Eleicoes" target="_blank">Abstenções - 1º Turno Eleições</a>
-- `002` <a href="https://github.com/rafarodrigues/analise-exploratoria-dados/tree/main/Perfil-Eleitorado-Brasileiro" target="_blank">Perfil do Eleitorado Brasileiro</a>
-- `003` <a href="https://github.com/rafarodrigues/analise-exploratoria-dados/tree/main/Grafico-Distribuicao-Eleitores-Brasil" target="_blank">Gráfico da Distribuição de Eleitores no Brasil</a>
+- `001` <a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/tree/main/01.%20Absten%C3%A7%C3%B5es%20-%201%C2%BA%20Turno%20Elei%C3%A7%C3%B5es" target="_blank">Abstenções - 1º Turno Eleições</a>
+- `002` <a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/tree/main/02.%20Perfil%20do%20Eleitorado%20Brasileiro" target="_blank">Perfil do Eleitorado Brasileiro</a>
+- `003` <a href="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/tree/main/03.%20Gr%C3%A1fico%20da%20distribui%C3%A7%C3%A3o%20de%20eleitores%20no%20Brasil" target="_blank">Gráfico da Distribuição de Eleitores no Brasil</a>
 
 ## Licença
 
