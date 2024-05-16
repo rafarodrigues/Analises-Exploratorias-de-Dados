@@ -33,6 +33,8 @@ Os dados utilizados foram extraídos de fontes oficiais, garantindo a confiabili
 3. **Geoprocessamento**: Utilização de dados geoespaciais para visualização em mapas.
 4. **Visualização e Interpretação**: Criação de gráficos e mapas para melhor interpretação dos dados.
 
+<div align="center"> <img src="https://github.com/rafarodrigues/Analises-Exploratorias-de-Dados/blob/main/02.%20Perfil%20do%20Eleitorado%20Brasileiro/img/img.jpg?raw=true" width="800"> </div>
+
 ## Dependências
 
 - Python 3.8+
